@@ -1,0 +1,63 @@
+body {
+    font-family: sans-serif;
+}
+header{
+  background-color: rgb(182, 239, 255);
+  border-radius:17px ;
+  padding: 17px;
+}
+header b{
+  font-size: 33px;
+  color: rgb(254, 254, 254);
+}
+header a{
+  background-color:aliceblue;
+  border-radius: 20px;
+  padding: 10px;
+  margin-top: 10px;
+}
+main h1{
+   background-color:aliceblue;
+  border-radius: 20px;
+  text-align: center;
+  padding: 10px;
+  margin-top: 10px;
+ color: rgb(40, 111, 225);
+}
+footer{
+  padding: 5px;
+  background-color: rgb(29, 29, 93);
+  color: aliceblue;
+}
+footer p{
+  background-color: black;
+}
+nav{
+  text-align:center ;
+}
+nav a {
+  font-size:larger;
+  background-color:rgb(89, 169, 230);
+  border-radius: 12px;
+  padding: 12px;
+  margin-top: 12px;
+}
+.ddd {
+    background-color: blanchedalmond;
+    color: rgb(40, 111, 225);  
+}
+h2{
+  color:blue;
+}
+.info {
+  font-size: 20px;
+  padding-top: 20px;
+}
+a {
+ background-color:aliceblue;
+  border-radius: 20px;
+  text-align: center;
+  padding: 10px;
+  margin-top: 10px;
+ color: rgb(40, 111, 225);
+}
